@@ -4,10 +4,10 @@
   "description": "",
   "private": true,
   "dependencies": {
-    "@idrinth-api-bench/framework": "*"
+    "@idrinth-api-bench/framework": "^1.0.3"
   },
   "scripts": {
-    "start": "run-benchmark 2 3"
+    "start": "iab bench"
   },
   "engines": {
     "node": ">=20"

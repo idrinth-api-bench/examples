@@ -7,7 +7,7 @@
     "@idrinth-api-bench/framework": "*"
   },
   "scripts": {
-    "start": "run-benchmark 2 3"
+    "start": "iab bench"
   },
   "engines": {
     "node": ">=20"
